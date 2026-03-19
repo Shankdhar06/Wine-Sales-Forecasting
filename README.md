@@ -128,6 +128,8 @@ wine-sales-time-series-forecasting/
 ├── wine_sales_forecasting.ipynb     # Main notebook with all models
 ├── Wine sales forecasting.pdf  # Detailed project report
 └── README.md
+├── Rose.csv #Rose wine raw data
+└── Sparkling.csv #Sparkling wine raw data
 ```
 
 ---
